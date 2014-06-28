@@ -21,7 +21,7 @@ Functional Spec
 * A 'drag and drop' interface is required. The User must be able to pick from at least 3 different furniture elements and place the elements on a part of the screen representing the floor.
 * Any number of furniture elements can be placed on a floor in a single layout as long as the elements do not overlap.
 * Each furniture element in a layout should have a text field to give it a name.
-* Each layout should have a text field to give it a name
+* Each layout should have a text field to give it a name.
 * 'New' button to create a fresh (empty) layout. Pressing 'New' should discard the layout currently on the screen (unless it has been explicitly saved)
 * 'Save' button to save the layout that is currently on the screen.
 * 'Browse' button to present the user with a list of previosuly saved layouts. Clicking on the name of a previously saved layout should display it in the same area used for creating layouts.
@@ -34,10 +34,22 @@ Guidelines
 
 * We have provided some wireframes below to give you an idea of what we expect the app might look like.
 * Dont focus too much on creating a pixel-perfect UI. It should just be neat and easy to operate.
+* In the simplest case you could represent the different furniture elements by various shapes & colors.
 * How you choose to persist the floor layouts is pretty open-ended.
 
 
+Wireframes
+---------------
+#### Creating a New Floor Layout:
+![Creating a new layout](/iOS/images/new.png "Creating a new layout")
+____
 
+#### Placing Furniture Elements & Saving New Floor Layout:
+![Saving a created layout](/iOS/images/save.png "Saving a created layout")
+____
+
+#### Browsing Previously Saved Layouts:
+![Browsing previously saved layouts](/iOS/images/browse.png "Browsing previously saved layouts")
 
 
 
