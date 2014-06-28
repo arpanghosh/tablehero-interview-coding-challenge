@@ -12,7 +12,7 @@ Write your README as if it was for a production service, and include the followi
 * Technical design decisions made by you (E.g. What made you choose a particular database, data structure, algorithm etc.)
 * Trade-offs you might have made, anything you left out, or what you might do differently if you were to spend additional time on the project
 * Any third-party libraries or code snippets you might have used.
-* Minimum requirements for bulding and running your code (E.g. iOS version etc.)
+* Instructions & minimum requirements for bulding and running your code (E.g. iOS version etc.)
 
 
 Functional Spec
