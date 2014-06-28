@@ -43,11 +43,11 @@ Wireframes
 #### Creating a New Floor Layout:
 ![Creating a new layout](/iOS/images/new.png "Creating a new layout")
 ____
-
+<br>
 #### Placing Furniture Elements & Saving New Floor Layout:
 ![Saving a created layout](/iOS/images/save.png "Saving a created layout")
 ____
-
+<br>
 #### Browsing Previously Saved Layouts:
 ![Browsing previously saved layouts](/iOS/images/browse.png "Browsing previously saved layouts")
 
