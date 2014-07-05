@@ -27,6 +27,7 @@ Functional Spec
 * 'Browse' button to present the user with a list of previosuly saved layouts. Clicking on the name of a previously saved layout should display it in the same area used for creating layouts.
 * Furniture elements placed on a layout can be moved around further, until the 'Save' button is pressed. Once a layout is saved, it cannot be edited.
 * The saved layouts must persist between app re-starts.
+* Only the landscape orientation needs to be supported.
 
 
 Guidelines
